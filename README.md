@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Data Science, Automation, Devops, Study abroad and Content creation**
 
-- 📫 How to reach me **adi.deo.singh**
+- 📫 How to reach me **adi.deo.singh@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3AwP18d](https://bit.ly/3AwP18d)
 
