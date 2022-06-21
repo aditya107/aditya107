@@ -5,19 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya107" alt="aditya107" /></a> </p>
 
-- 🔭 I’m currently working on **Clients infrastructure automation and Dashboard development @capgemini**
+- 🔭 I’m currently working on **Analytics and Automation projects @capgemini**
 
-- 🌱 I’m currently learning **Deep learning and Machine learning through various projects**
+- 🌱 I’m currently learning **Machine learning and its uses through various projects**
 
-- 👯 I’m looking to collaborate on **a Deep learning paper and FIFA based data project with a start-up**
+- 👯 I’m looking to collaborate on **a Deep learning paper and FIFA based data science project opportunity provided by a tech start-up**
 
 - 🤝 I’m looking for help with **Web scraping for one of my initiatives at a Bangalore based start-up**
 
 - 👨‍💻 Most of my projects are available at [https://github.com/aditya107](https://github.com/aditya107)
 
-- 📝 I regularly write articles on [http://techiehook.blogspot.com/](http://techiehook.blogspot.com/)
+- 📝 I regularly write articles on **Sportskeeda and soon on Medium :D**
 
 - 💬 Ask me about **Data Science, Automation, Devops, Study abroad and Content creation**
+
+- ▶️ Watch my videos on Youtube channel https://www.youtube.com/c/AdityaSinghYoutube
 
 - 📫 How to reach me **adi.deo.singh@gmail.com**
 
