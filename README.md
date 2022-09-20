@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya107" alt="aditya107" /></a> </p>
 
-- 🔭 I’m currently working on **Analytics and Automation projects @capgemini**
+- 🔭 I’m currently studying **MS Business Analytics @University at Buffalo, School of Management**
 
-- 🌱 I’m currently learning **Machine learning and its uses through various projects**
+- 🌱 I’m currently learning **Machine learning and its applications through various projects**
 
 - 👯 I’m looking to collaborate on **a Deep learning paper and FIFA based data science project opportunity provided by a tech start-up**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on **Sportskeeda and soon on Medium :D**
 
-- 💬 Ask me about **Data Science, Automation, Devops, Study abroad and Content creation**
+- 💬 Ask me about **Data Science, Business Analytics, Automation, Study abroad, Career and Content creation**
 
 - ▶️ Watch my videos on Youtube channel https://www.youtube.com/c/AdityaSinghYoutube
 
