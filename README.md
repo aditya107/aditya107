@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying **MS Business Analytics @University at Buffalo, School of Management**
 
-- 🌱 I’m currently learning **Machine learning and its applications through various projects**
+- 🌱 I’m learning **Machine learning and its applications through various projects**
 
 - 👯 I’m looking to collaborate on **a Deep learning paper and FIFA based data science project opportunity provided by a tech start-up**
 
-- 🤝 I’m looking for help with **Web scraping for one of my initiatives at a Bangalore based start-up**
+- 🤝 I’m looking for help with **Web scraping for one of my initiatives at a start-up**
 
 - 👨‍💻 Most of my projects are available at [https://github.com/aditya107](https://github.com/aditya107)
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/3AwP18d](https://bit.ly/3AwP18d)
 
-- ⚡ Fun fact **I play and stream on Twitch to blow off steam from work. It's my coping mechanism :)**
+- ⚡ Fun fact **I play and stream on Twitch to blow off steam from work/study. It's my coping mechanism :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
