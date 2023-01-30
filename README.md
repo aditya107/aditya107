@@ -15,7 +15,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://github.com/aditya107](https://github.com/aditya107)
 
-- 📝 I regularly write articles on **Sportskeeda and soon on Medium :D**
+- 📝 I regularly write articles on **Sportskeeda and soon on Medium **
 
 - 💬 Ask me about **Data Science, Business Analytics, Automation, Study abroad, Career and Content creation**
 
